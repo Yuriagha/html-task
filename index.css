@@ -1,0 +1,12 @@
+table, th, td {
+    border: 2px solid red;
+}
+
+table {
+    color: blue;
+}
+
+.cell-center {
+    display: flex;
+    justify-content: center;
+}
